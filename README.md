@@ -4,7 +4,7 @@
 
 <h3 align="center">A passionate developer and apprentice who is enthusiastic about learning and practicing new things. Your curiosity drives you to explore and discover new ideas, and you are always looking for ways to improve your skills. You enjoy collaborating with others and using your knowledge to contribute to the development of innovative projects.</h3>
 
-- 💬 Ask me about **html css js**
+- 💬 Ask me about **HTML CSS JavaScript Swift SwiftUI**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
