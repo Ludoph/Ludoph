@@ -1,10 +1,10 @@
 ### 
 <h1 align="center">Hi 👋, I'm LudoPh</h1>
-<h3 align="center" width="100">I'm Seeking for a 18 month Full Stack Developper Intership. A passionate developer and apprentice who is enthusiastic about learning and practicing new things. Your curiosity drives you to explore and discover new ideas, and you are always looking for ways to improve your skills. You enjoy collaborating with others and using your knowledge to contribute to the development of innovative projects.</h3>
+<h3 align="center">I'm Seeking for a 18 month Full Stack Developper Intership. A passionate developer and apprentice who is enthusiastic about learning and practicing new things. Your curiosity drives you to explore and discover new ideas, and you are always looking for ways to improve your skills. You enjoy collaborating with others and using your knowledge to contribute to the development of innovative projects.</h3>
 
 - 💬 Ask me about **html css js**
 
-<h3 align="centercenter">Connect with me:</h3>
+<h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/ludovic phounphonh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ludovic phounphonh" height="30" width="40" /></a>
 <a href="https://fb.com/sou ph" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sou ph" height="30" width="40" /></a>
