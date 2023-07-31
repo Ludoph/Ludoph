@@ -1,9 +1,7 @@
 ### 
 <h1 align="center">Hi 👋</h1>
-<h2 align="left">I'm Seeking for a 18 month Full Stack Developper Intership.</h2>
+<h2 align="left">I'm Full Stack Developper Intership.</h2>
 <h3 text-align="left">A passionate developer and apprentice who is enthusiastic about learning and practicing new things. Your curiosity drives you to explore and discover new ideas, and you are always looking for ways to improve your skills. You enjoy collaborating with others and using your knowledge to contribute to the development of innovative projects.</h3>
-
-<p align="center">- 💬 Ask me about HTML CSS JavaScript -</p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
