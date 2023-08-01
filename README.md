@@ -1,16 +1,16 @@
-### 
+
 <h1 align="center">Hi 👋</h1>
 <h2 align="left">I'm Full Stack Developper Intership.</h2>
 <h3 text-align="left">A passionate developer and apprentice who is enthusiastic about learning and practicing new things. Your curiosity drives you to explore and discover new ideas, and you are always looking for ways to improve your skills. You enjoy collaborating with others and using your knowledge to contribute to the development of innovative projects.</h3>
 
-####
+##
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ludovic phounphonh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ludovic phounphonh" height="30" width="40" /></a>
 <a href="https://fb.com/sou ph" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sou ph" height="30" width="40" /></a>
 </p>
 
-
+##
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left">
@@ -40,6 +40,8 @@
 
 </p>
 
+<p>
+
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -50,3 +52,11 @@
 ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+  
+</p>
+
+##
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ludoph&show_icons=true&locale=en&" alt="ludoph" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ludoph&show_icons=true&locale=en" alt="ludoph" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ludoph&" alt="ludoph" /></p>
+
